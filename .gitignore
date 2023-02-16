@@ -1,0 +1,6 @@
+main.py
+config.py
+__pycache__
+tg_bot.py
+database/database.sqlite
+database/__pycache__
